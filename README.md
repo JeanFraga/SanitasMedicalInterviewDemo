@@ -15,3 +15,8 @@ This picture comes from Microsofts Documentatio related to Azure [here](https://
 ## The notebooks I followed come from a Pandas Crash Course from SuperDataScience Team
 
 [The link to the notebooks](https://www.superdatascience.com/pages/data-manipulation-in-python)
+
+## Author
+<a name="Jean Fraga"></a>
+[Jean Fraga](https://github.com/JeanFraga)  
+[<img src="https://avatars.githubusercontent.com/u/12549527?v=4" width="200">](https://github.com/JeanFraga)
