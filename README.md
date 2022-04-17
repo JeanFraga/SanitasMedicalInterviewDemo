@@ -5,7 +5,7 @@ This repository will hold a demo notebook that showcases ability to make an expl
 
 - [Cheat Sheet](https://cosmiccoding.com.au/static/misc/CheatSheet.html#Creating-DataFrames)
 
-### 2. [Excel Pivot Tables for Management Consultants & Analysts](https://github.com/JeanFraga/SanitasMedicalInterviewDemo/tree/main/Excel%20Pivot%20Tables%20for%20Management%20Consultants%20& Analysts)
+### 2. [Excel Pivot Tables for Management Consultants & Analysts](https://github.com/JeanFraga/SanitasMedicalInterviewDemo/tree/main/Excel%20Pivot%20Tables%20for%20Management%20Consultants%20%26%20Analysts)
 
 - *Cheat Sheet Coming Soon*
 
