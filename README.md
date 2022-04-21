@@ -9,6 +9,8 @@ This repository will hold a demo notebook that showcases ability to make an expl
 
 - *Cheat Sheet Coming Soon*
 
+### 3. [Plotly-Dashboards-with-Dash](https://github.com/JeanFraga/SanitasMedicalInterviewDemo/tree/main/Plotly-Dashboards-with-Dash)
+
 ## Data Science Life Cycle from Microsoft
 
 The following image is such a powerful image and a similar to this one is the reason why I got so interested in Data Science.
