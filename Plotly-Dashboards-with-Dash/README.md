@@ -17,6 +17,3 @@ to build interactive data visualizations.
 
 ### Original Github Repo for this course
 https://github.com/Pierian-Data/Plotly-Dashboards-with-Dash
-
-Enroll in our course! Use the link below to get a 30-day trial at 95% off!
-https://www.udemy.com/draft/1575562/?couponCode=GITHUB_DASHBOARDS
