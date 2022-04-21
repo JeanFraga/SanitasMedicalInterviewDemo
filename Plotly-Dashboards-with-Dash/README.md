@@ -1,7 +1,4 @@
 # Plotly-Dashboards-with-Dash
-## Welcome to the course repo!
-Do you want to learn how to create amazing dashboards with Python, Plotly, and
-Dash?
 
 ## Course Materials
 [Public Datasets](https://docs.google.com/document/d/1vI84_EpRTh4xfcFkTunFzZT0RWMcRSqdkPueVNBcLx8/edit)
